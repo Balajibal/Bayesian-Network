@@ -19,7 +19,8 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-```python
+```
+python
 !pip install pybbn
 
 import pandas as pd
